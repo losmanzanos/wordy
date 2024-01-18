@@ -1,0 +1,26 @@
+title: chad em
+email: dahc.reverse@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ Magic 🪄
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://chadem.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  losmanzanos
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
