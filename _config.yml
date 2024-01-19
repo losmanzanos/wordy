@@ -1,8 +1,6 @@
 title: Chad Em
 email: dahc.reverse@gmail.com
-description: >-
-  # Use the greater than symbol to ignore newlines until "baseurl:"
-  Magic 🪄
+description: Magic 🪄
 baseurl: "" # The subpath of your site, e.g., /blog (leave empty for the root)
 url: ""     # The base hostname & protocol for your site, e.g., http://example.com (leave empty for local testing)
 github_username: losmanzanos
