@@ -1,14 +1,19 @@
-title: chad em
+title: Chad Em
 email: dahc.reverse@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- Magic 🪄
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  losmanzanos
+description: >-
+  # Use the greater than symbol to ignore newlines until "baseurl:"
+  Magic 🪄
+baseurl: "" # The subpath of your site, e.g., /blog (leave empty for the root)
+url: ""     # The base hostname & protocol for your site, e.g., http://example.com (leave empty for local testing)
+github_username: losmanzanos
 
 # Build settings
-theme: minima
+# Since you are using the github-pages gem, the theme is specified automatically.
+# You can comment out the following line if you want to use the default theme provided by GitHub Pages.
+# theme: minima
 
+# Exclude settings
+# Uncomment and customize the exclude section if you want to exclude certain directories or files from the build.
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
