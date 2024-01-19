@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use a different theme, you can specify it here
-# gem "minima", "~> 2.5"
+gem "minima", "~> 2.5"
 
 # If you have any additional plugins, put them here!
 group :jekyll_plugins do
